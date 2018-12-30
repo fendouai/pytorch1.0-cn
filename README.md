@@ -69,9 +69,10 @@ Zhang et al. (2016): A Joint Model of Intent Determination and Slot Filling for 
 
 ## 加入社区
 
-•Facebook group:https://www.facebook.com/./pytext/
+Facebook group:https://www.facebook.com/./pytext/
 
 ## 项目地址：
 https://github.com/facebookresearch/pytext
 
-
+## PytorchChina
+http://pytorchchina.com
