@@ -1,4 +1,4 @@
-# pytorch1.0-cn
+ # pytorch1.0-cn
 pytorch1.0官方文档 中文版
 
 ## 概述
@@ -43,7 +43,7 @@ Zhang et al. (2016): A Joint Model of Intent Determination and Slot Filling for 
   $ source pytext_venv/bin/activate
   (pytext_venv) $ pip install pytext-nlp
 ```
-详细说明和更多的安装选项可以在我们的文档（https://pytext-pytext.readthedocs-hosted.com/en/latest/installation.html）中找到。如果在安装过程中遇到缺少依赖项的问题，请参考OS（https://pytext-pytext.readthedocs-hosted.com/en/latest/installation.html#os-dependencies）依赖项。
+详细说明和更多的安装选项可以在我们的文档（ https://pytext-pytext.readthedocs-hosted.com/en/latest/installation.html ）中找到。如果在安装过程中遇到缺少依赖项的问题，请参考OS（ https://pytext-pytext.readthedocs-hosted.com/en/latest/installation.html#os-dependencies ）依赖项。
 
 
 
