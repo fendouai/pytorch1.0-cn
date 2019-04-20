@@ -275,14 +275,22 @@ Construct a matrix filled zeros and of dtype long:
 </div>
 </div>
 <div id="cuda-tensors" class="section">
+ 
+ 
 <div class="sphx-glr-footer docutils container">
 <div>PyTorch windows 安装教程：两行代码搞定 PyTorch 安装
 http://pytorchchina.com/2018/12/11/pytorch-windows-install-1/
+ 
 PyTorch Mac 安装教程
 http://pytorchchina.com/2018/12/11/pytorch-mac-install/
+
 PyTorch Linux 安装教程
-http://pytorchchina.com/2018/12/11/pytorch-linux-install/</div>
+http://pytorchchina.com/2018/12/11/pytorch-linux-install/
+
+</div>
 <div></div>
+
+
 <div class="sphx-glr-download docutils container">PyTorch QQ群</div>
 <div></div>
 <div class="sphx-glr-download docutils container"><img class="alignnone wp-image-47 size-full" src="http://pytorchchina.com/wp-content/uploads/2018/12/WechatIMG1311.png" alt="" width="540" height="740" /></div>
