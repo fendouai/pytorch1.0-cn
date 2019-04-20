@@ -1,4 +1,4 @@
- # pytorch1.0-cn
+## pytorch1.0-cn
 pytorch1.0官方文档 中文版
 
 
@@ -18,6 +18,8 @@ PyTorch 数据并行处理【5】
 https://github.com/fendouai/pytorch1.0-cn/blob/master/optional-data-parallelism.md
 
 
+## PytorchChina:
+http://pytorchchina.com
 
 ## PyTorch 入门教程【1】
 <h1>什么是 PyTorch?</h1>
@@ -1010,7 +1012,7 @@ http://pytorchchina.com/2018/12/11/optional-data-parallelism/
 <a href="http://pytorchchina.com/wp-content/uploads/2018/12/cifar10_tutorial.ipynb_.zip">cifar10_tutorial.ipynb</a>
 
 
-PyTorch 数据并行处理【5】
+## PyTorch 数据并行处理【5】
 可选择：数据并行处理（文末有完整代码下载）
 作者：Sung Kim 和 Jenny Kang
 
@@ -1031,7 +1033,7 @@ PyTorch 数据并行处理【5】
 <pre> import torch
  import torch.nn as nn
  from torch.utils.data import Dataset, DataLoader</pre>
-# 参数
+### 参数
 <pre> input_size = 5
  output_size = 2
 
@@ -1219,5 +1221,5 @@ https://pytorch.org/tutorials/beginner/former_torchies/parallelism_tutorial.html
 
 
 
- # PytorchChina:
+# PytorchChina:
 http://pytorchchina.com
